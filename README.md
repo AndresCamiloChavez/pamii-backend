@@ -12,4 +12,5 @@
 4. Levantar la base de datos
 ```docker-compose up```
 5. Levantar en modo de desarrollo ```yarn start:dev```
+6.
 
